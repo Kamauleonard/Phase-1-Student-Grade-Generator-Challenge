@@ -1,5 +1,5 @@
 Save the Javascript file in your machine.
-Follow the on-screen instructions to check your grade. Enter node studentgrade.css ENTER. 
+Follow the on-screen instructions to check your grade. Enter node studentgrade.js ENTER. 
 It will prompt you to enter your marks so that you can see your grade.
 
 Program Overview
